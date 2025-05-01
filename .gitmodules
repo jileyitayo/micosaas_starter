@@ -1,0 +1,9 @@
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/jileyitayo/landingpage_ai_frontend.git
+    branch = main
+
+[submodule "backend"]
+    path = backend
+    url = https://github.com/jileyitayo/landingpage_ai_backend.git
+    branch = main
